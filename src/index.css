@@ -56,18 +56,9 @@ select {
   border: none;
 }
 
-button:focus {
-  outline: none;
-}
-
-input:focus {
-  outline: none;
-}
-
-textarea:focus {
-  outline: none;
-}
-
+button:focus,
+input:focus,
+textarea:focus,
 select:focus {
   outline: none;
 }
