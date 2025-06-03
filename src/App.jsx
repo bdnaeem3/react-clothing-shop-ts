@@ -1,8 +1,12 @@
+import { BrowserRouter, Routes, Route } from "react-router";
+
 function App() {
   return (
-    <>
-      Project started
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route index element={"hello"} />
+      </Routes>
+    </BrowserRouter>
   )
 }
 
