@@ -1,9 +1,9 @@
-const baseStyles = 'px-4 py-2 rounded font-semibold transition duration-200';
+const baseStyles = 'cursor-pointer';
 
 const variantStyles = {
-    primary: 'bg-[#d73977] text-white rounded px-[20px] py-[7px] cursor-pointer hover:bg-[#e10e60]',
-    info: 'text-[#757575] text-sm cursor-pointer',
-    link: 'text-[#007bff] text-base leading-6 cursor-pointer hover:text-[#0056b3]',
+    primary: 'bg-[#d73977] text-white rounded px-[20px] py-[7px] hover:bg-[#e10e60]',
+    info: 'text-[#757575] text-sm',
+    link: 'text-[#007bff] text-base leading-6 hover:text-[#0056b3]',
 };
 
 const Button = ({
