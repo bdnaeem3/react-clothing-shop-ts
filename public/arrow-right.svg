@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="18px" viewBox="0 0 11 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Icons / Arrow (Right)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.965337045,16.1081942 C0.630601937,16.4429293 0.630601937,16.9856421 0.965337045,17.3203772 C1.30007215,17.6551123 1.84278499,17.6551123 2.1775201,17.3203772 L9.89180581,9.60609153 C10.2265409,9.27135642 10.2265409,8.72864358 9.89180581,8.39390847 L2.1775201,0.679622759 C1.84278499,0.344887652 1.30007215,0.344887652 0.965337045,0.679622759 C0.630601937,1.01435787 0.630601937,1.55707071 0.965337045,1.89180581 L8.07353123,9 L0.965337045,16.1081942 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(-1521.000000, -216.000000)">
+            <g id="Group-2" transform="translate(1106.000000, 138.000000)">
+                <g id="Icons-/-Arrow-(Right)" transform="translate(415.000000, 78.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Icon" fill="#0055B9" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
