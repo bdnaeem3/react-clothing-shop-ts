@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "img": "/public/fast-delivery.png",
+            "title": "Fast Delivery",
+            "desc": "Delivery within 48 hours"
+        },
+        {
+            "id": 2,
+            "img": "/public/fast-response.svg",
+            "title": "Fast Response",
+            "desc": "Response as fast as possible"
+        },
+        {
+            "id": 3,
+            "img": "/public/original.png",
+            "title": "Original Product",
+            "desc": "100% original guarantee"
+        },
+        {
+            "id": 4,
+            "img": "/public/easy-return.png",
+            "title": "Easy Return",
+            "desc": "Return or change within 2 days"
+        }
+    ]
+}

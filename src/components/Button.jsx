@@ -1,5 +1,3 @@
-const baseStyles = 'cursor-pointer';
-
 const variantStyles = {
     primary: 'bg-[#d73977] text-white rounded px-[20px] py-[7px] hover:bg-[#e10e60]',
     info: 'text-[#757575] text-sm',
@@ -14,16 +12,12 @@ const Button = ({
     disabled = false,
     className = '',
 }) => {
-
-    console.log('variantStyles[variant]', variantStyles[variant]);
-    
-
     return (
         <button
             type={type}
             onClick={onClick}
             disabled={disabled}
-            className={`${baseStyles} ${variantStyles[variant] ? variantStyles[variant] : variantStyles['primary']}`}
+            className={`${variantStyles[variant] ?? variantStyles['primary']} ${className}`}
         >
             {children}
         </button>

@@ -49,4 +49,9 @@ select:focus {
   outline: none;
 }
 
+a,
+button {
+  cursor: pointer;
+}
+
 @import "tailwindcss";

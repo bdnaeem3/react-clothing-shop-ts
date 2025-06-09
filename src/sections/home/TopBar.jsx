@@ -29,8 +29,10 @@ const TopBar = props => {
                     <ul className='flex'>
                         <li>
                             <Button variant='info'>
-                                <Icon name="phone" className="w-[0.875em] inline-block text-inherit h-[1em] align-[-0.125em] mr-[6px]" />
-                                01790-003132
+                                <a href="tel:01790-003132" className='!text-[#757575]'>
+                                    <Icon name="phone" className="w-[0.875em] inline-block text-inherit h-[1em] align-[-0.125em] mr-[6px]" />
+                                    01790-003132
+                                </a>
                             </Button>
                         </li>
                     </ul>
