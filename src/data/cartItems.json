@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "img": "/public/09.png",
+            "url": "#",
+            "title": "White T-Shirt for Girls by InexTenso - 1&amp;2 years",
+            "price": 770,
+            "quantity": 2
+        },
+        {
+            "id": 2,
+            "img": "/public/09.png",
+            "url": "#",
+            "title": "White T-Shirt for Girls by InexTenso - 1&amp;2 years",
+            "price": 770,
+            "quantity": 2
+        },
+        {
+            "id": 3,
+            "img": "/public/09.png",
+            "url": "#",
+            "title": "White T-Shirt for Girls by InexTenso - 1&amp;2 years",
+            "price": 770,
+            "quantity": 2
+        }
+    ]
+}
